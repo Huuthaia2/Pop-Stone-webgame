@@ -1,0 +1,26 @@
+{
+  "appId":"popstone2",
+  "last_modified":"202109301051",
+  "vconsole":false,
+  "afg":{
+    "disabled":false,
+    "attributes":{
+      "data-ad-client":"ca-pub-3962242587190395",
+      "data-ad-channel":"7352819442",
+      "data-ad-frequency-hint":"30s",
+      "crossorigin":"anonymous"
+    },
+    "config":{
+      "preloadAdBreaks":"on",
+      "onReady":true  
+    }
+  },
+  "ga":{
+    "disabled":false,
+    "attributes":{
+    },
+    "config":{
+      "gid":"G-H6SSQ2QCSN"
+    }
+  }
+}
